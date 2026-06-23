@@ -2,7 +2,13 @@
 <img width="1280" height="318" alt="hyo-org-banner-github" src="https://github.com/user-attachments/assets/bf228196-be35-4e89-af19-ad5760b04683" />
 </p>
 
-# HYO
+# HYO Technology
+
+[中文](#中文) | [English](#english) 
+
+---
+
+## 中文
 
 HYO Technology是一家由20余年从业经验的行业专家创立的科技企业，提供 AI 原生运维平台，助力企业构建智能、稳定、高效的IT运维体系。
 
@@ -23,16 +29,53 @@ HYO Technology是一家由20余年从业经验的行业专家创立的科技企�
 - **自动化运维**  
   基于精确数据与AI分析，驱动运维任务自动执行，减少人工干预，提升响应效率。
 
-产品详情：[https://www.huayung.com.cn/solutions.html](https://www.huayung.com.cn/solutions.html)
+产品详情：[https://www.huayung.cn/solutions.html](https://www.huayung.cn/solutions.html)
 
 ---
 
 ## 社区版
 
-我们将在GitHub发布免费社区版，支持通过Docker Compose一键部署，供开发者体验产品核心能力。
+我们将很快发布免费社区版，支持通过Docker Compose一键部署，供个人和组织体验产品核心能力。
 
 ---
 
 ## 官网
 
-[https://www.huayung.com.cn](https://www.huayung.com.cn)
+[https://www.huayung.cn](https://www.huayung.cn)
+
+---
+
+## English
+
+HYO Technology is a technology company founded by industry experts with over 20 years of experience. We provide an AI-native operations platform that helps organizations build intelligent, stable, and efficient IT operations.
+
+---
+
+## Product
+
+### Huayung Smart Operations Platform
+
+An integrated digital operations management platform with core modules:
+
+- **Configuration Management Database (CMDB)**  
+  Automatically discovers and synchronizes infrastructure and cloud resources in real time, building an accurate configuration relationship graph to provide a reliable data foundation for all operational processes.
+
+- **Comprehensive Monitoring & Observability**  
+  End-to-end monitoring covering infrastructure, cloud platforms, and application performance. Intelligently correlates alerts with business impact for rapid fault localization.
+
+- **Automation**  
+  Drives automated execution of operational tasks based on precise data and AI analysis, reducing manual intervention and improving response efficiency.
+
+Learn more at [https://www.huayung.com.cn/en/solutions.html](https://www.huayung.com.cn/en/solutions.html)
+
+---
+
+## Community Edition
+
+We will soon release a free community edition with Docker Compose support for one-click deployment, allowing individuals and organizations to experience the product's core capabilities.
+
+---
+
+## Official Website
+
+[https://www.huayung.com.cn/en/](https://www.huayung.com.cn/en/)
