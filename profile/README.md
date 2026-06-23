@@ -1,0 +1,38 @@
+<p align="center">
+<img width="1280" height="318" alt="hyo-org-banner-github" src="https://github.com/user-attachments/assets/bf228196-be35-4e89-af19-ad5760b04683" />
+</p>
+
+# HYO
+
+HYO Technology是一家由20余年从业经验的行业专家创立的科技企业，提供 AI 原生运维平台，助力企业构建智能、稳定、高效的IT运维体系。
+
+---
+
+## 产品
+
+### 华杨智能运维平台
+
+一体化数字运营管理平台，核心功能模块：
+
+- **配置管理数据库（CMDB）**  
+  自动发现并实时同步基础设施与云资源变化，构建精准的配置关系图谱，为所有运维流程提供可靠的数据基础。
+
+- **全域监控与可观测性**  
+  覆盖基础设施、云平台、应用性能的端到端监控，智能关联告警与业务影响，快速定位故障。
+
+- **自动化运维**  
+  基于精确数据与AI分析，驱动运维任务自动执行，减少人工干预，提升响应效率。
+
+产品详情：[https://www.huayung.com.cn/solutions.html](https://www.huayung.com.cn/solutions.html)
+
+---
+
+## 社区版
+
+我们将在GitHub发布免费社区版，支持通过Docker Compose一键部署，供开发者体验产品核心能力。
+
+---
+
+## 官网
+
+[https://www.huayung.com.cn](https://www.huayung.com.cn)
