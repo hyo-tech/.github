@@ -35,7 +35,7 @@ HYO Technology是一家由20余年从业经验的行业专家创立的科技企�
 
 ## 社区版
 
-我们将很快发布免费社区版，支持通过Docker Compose一键部署，供个人和组织体验产品核心能力。
+免费社区版在[CMDB仓库](https://github.com/hyo-tech/CMDB)中下载，支持通过Docker Compose一键部署，供个人和组织体验产品核心能力。
 
 ---
 
@@ -72,7 +72,7 @@ Learn more at [https://www.huayung.com.cn/en/solutions.html](https://www.huayung
 
 ## Community Edition
 
-We will soon release a free community edition with Docker Compose support for one-click deployment, allowing individuals and organizations to experience the product's core capabilities.
+Free [community edition](https://github.com/hyo-tech/CMDB) with Docker Compose support for one-click deployment, allowing individuals and organizations to experience the product's core capabilities.
 
 ---
 
