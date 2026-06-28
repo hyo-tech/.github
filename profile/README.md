@@ -35,7 +35,7 @@ HYO Technology是一家由20余年从业经验的行业专家创立的科技企�
 
 ## 社区版
 
-免费社区版在[CMDB仓库](https://github.com/hyo-tech/CMDB)中下载，支持通过Docker Compose一键部署，供个人和组织体验产品核心能力。
+免费 [社区版](https://github.com/hyo-tech/CMDB) 支持通过Docker Compose一键部署，供个人和组织体验产品核心能力。
 
 ---
 
